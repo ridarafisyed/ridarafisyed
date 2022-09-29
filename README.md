@@ -25,6 +25,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
     <li> HTML5</li>
     <li> CSS3/SCSS</li>
     <li> Python</li>
+    <li> PHP </li>
 </ul>
 
 ## Frameworks: Web Stacks:
@@ -32,6 +33,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
     <li> MERN (MongoDB, Express, React, Node)</li>
     <li> Flask</li>
     <li> Django</li>
+    <li>Laravel </li>
     <li> Gatsby</li>
 </ul>
 
