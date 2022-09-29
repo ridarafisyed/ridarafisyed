@@ -5,37 +5,39 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 ## My Skills/Services include, but are not limited to:
 <ul>
   <li> SaaS Development </li>
- <li> PWA - Progressive Web App Development</li>
- <li> Node.js Development</li>
- <li> Django Development</li>
-<li> Backend Web Development</li>
- <li> Frontend Web Development</li>
-<li> React Framework</li>
-<li> Python Development</li>
- <li> Web App Development</li>
- <li> Hybrid App Development</li>
- <li> API Development</li>
- <li> MERN Stack Development</li>
- <li> Hosting, domain, email, and SSL setup</li>
+   <li> PWA - Progressive Web App Development</li>
+   <li> Node.js Development</li>
+   <li> Django Development</li>
+  <li> Backend Web Development</li>
+   <li> Frontend Web Development</li>
+  <li> React Framework</li>
+  <li> Python Development</li>
+   <li> Web App Development</li>
+   <li> Hybrid App Development</li>
+   <li> API Development</li>
+   <li> MERN Stack Development</li>
+   <li> Hosting, domain, email, and SSL setup</li>
 </ul>
 ## Developer Summary: Languages:
+<ul>
   <li>JavaScript (ES6, React, Redux)
     <li>HTML5
    <li>CSS3/SCSS
     <li> Python
-
+</ul>
 ## Frameworks: -Web Stacks:
-      <ul>
+ <ul>
    <li> MERN (MongoDB, Express, React, Node)</li>
    <li> Flask</li>
     <li>Django</li>
     <li> Gatsby</li>
-      </ul>
+ </ul>
 ## Mobile Development:
-      <ul><li> React Native</li></ul>
+   <ul>
+      <li> React Native</li></ul>
   
 ## Database Management:
-      <ul>
+  <ul>
     <li> PostgreSQL</li>
     <li> MongoDB</li>
    <li> GraphQL</li>
