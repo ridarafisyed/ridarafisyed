@@ -8,10 +8,10 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
    <li> PWA - Progressive Web App Development</li>
    <li> Node.js Development</li>
    <li> Django Development</li>
-  <li> Backend Web Development</li>
+   <li> Backend Web Development</li>
    <li> Frontend Web Development</li>
-  <li> React Framework</li>
-  <li> Python Development</li>
+   <li> React Framework</li>
+   <li> Python Development</li>
    <li> Web App Development</li>
    <li> Hybrid App Development</li>
    <li> API Development</li>
@@ -20,38 +20,40 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 </ul>
 ## Developer Summary: Languages:
 <ul>
-  <li>JavaScript (ES6, React, Redux)
-    <li>HTML5
-   <li>CSS3/SCSS
-    <li> Python
+  <li>JavaScript (ES6, React, Redux)</li>
+   <li>HTML5</li>
+   <li>CSS3/SCSS</li>
+   <li> Python</li>
 </ul>
 ## Frameworks: -Web Stacks:
  <ul>
    <li> MERN (MongoDB, Express, React, Node)</li>
    <li> Flask</li>
-    <li>Django</li>
-    <li> Gatsby</li>
+   <li>Django</li>
+   <li> Gatsby</li>
  </ul>
 ## Mobile Development:
    <ul>
-      <li> React Native</li></ul>
-  
+      <li> React Native</li>
+  </ul>
 ## Database Management:
   <ul>
     <li> PostgreSQL</li>
     <li> MongoDB</li>
-   <li> GraphQL</li>
+    <li> GraphQL</li>
     <li> SQL (MySQL/SQLite)</li>
-   <li>Firebase</li>
-      </ul>
+    <li>Firebase</li>
+  </ul>
 ## Salesforce Dev Tools:
-   <ul><li> Git (GitHub)</li>
+   <ul>
+    <li> Git (GitHub)</li>
     <li>Webpack</li>
     <li> Heroku</li></li>
     <li> AWS</li>
     <li> VSCode</li>
-    </ul>
-    <ul>
+  </ul>
+
+<ul>
   <li>🔭 I’m currently working on react and django projects</li>
   <li>🌱 I’m currently learning flutter</li>
   <li>👯 I’m looking to collaborate on any thing that suits my skill set</li>
