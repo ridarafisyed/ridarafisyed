@@ -2,7 +2,7 @@
 
 I'm a passionate, creative, and hardworking full stack web developer 5 years plus’ experience. Open to handling any challenge in my way, I can make your website beautiful and fully functional. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of technologies, platforms and approaches required to build a quality digital solution
 
-#### My Skills/Services include, but are not limited to:
+##My Skills/Services include, but are not limited to:
   • SaaS Development
   • PWA - Progressive Web App Development
   • Node.js Development
@@ -17,22 +17,21 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
   • MERN Stack Development
   • Hosting, domain, email, and SSL setup
 
-#### Developer Summary: Languages:
+##Developer Summary: Languages:
   • JavaScript (ES6, React, Redux)
   • HTML5
   • CSS3/SCSS
   • Python
 
-#### Frameworks: -Web Stacks:
+##Frameworks: -Web Stacks:
   • MERN (MongoDB, Express, React, Node)
   • Flask
   • Django
   • Gatsby
 
-####Mobile Development:
+##Mobile Development:
   • React Native
-#### 🌱 Currently I'm Learing:
-  • ML 
+  
 #### Database Management:
   • PostgreSQL
   • MongoDB
@@ -46,17 +45,20 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
   • Heroku
   • AWS
   • VSCode
+🔭 I’m currently working on react and django projects
+🌱 I’m currently learning flutter
+👯 I’m looking to collaborate on any thing that suits my skill set
+💬 Ask me about frontend and backend development and deployment
+📫 How to reach me: email me @ ridarafisyed@gmail.com'
+⚡ Fun fact: I love to do illustration
 <!--
 **ridarafisyed/ridarafisyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+🤔 I’m looking for help with ...
+
+😄 Pronouns: ...
+
 -->
