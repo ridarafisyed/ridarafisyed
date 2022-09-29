@@ -2,7 +2,7 @@
 
 I'm a passionate, creative, and hardworking full stack web developer 5 years plus’ experience. Open to handling any challenge in my way, I can make your website beautiful and fully functional. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of technologies, platforms and approaches required to build a quality digital solution
 
-##My Skills/Services include, but are not limited to:
+## My Skills/Services include, but are not limited to:
   • SaaS Development
   • PWA - Progressive Web App Development
   • Node.js Development
@@ -17,29 +17,29 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
   • MERN Stack Development
   • Hosting, domain, email, and SSL setup
 
-##Developer Summary: Languages:
+## Developer Summary: Languages:
   • JavaScript (ES6, React, Redux)
   • HTML5
   • CSS3/SCSS
   • Python
 
-##Frameworks: -Web Stacks:
+## Frameworks: -Web Stacks:
   • MERN (MongoDB, Express, React, Node)
   • Flask
   • Django
   • Gatsby
 
-##Mobile Development:
+## Mobile Development:
   • React Native
   
-#### Database Management:
+## Database Management:
   • PostgreSQL
   • MongoDB
   • GraphQL
   • SQL (MySQL/SQLite)
   • Firebase
 
-#### Salesforce Dev Tools:
+## Salesforce Dev Tools:
   • Git (GitHub)
   • Webpack
   • Heroku
