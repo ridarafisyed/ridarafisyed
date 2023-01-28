@@ -24,9 +24,9 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 
 ### Developer Summary: Languages:
 <ul>
-    <li> JavaScript (ES6, React, Redux)</li>
+    <li> JavaScript (ES6, React.js, Redux, Next.js, Typescrtipt)</li>
     <li> HTML5</li>
-    <li> CSS3/SCSS</li>
+    <li> CSS3/SCSS/TailwindCSS/Bootstrap</li>
     <li> Python</li>
     <li> PHP </li>
 </ul>
@@ -36,7 +36,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
     <li> MERN (MongoDB, Express, React, Node)</li>
     <li> Flask</li>
     <li> Django</li>
-    <li>Laravel </li>
+    <li> Laravel </li>
     <li> Gatsby</li>
 </ul>
 
@@ -51,25 +51,25 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
     <li> MongoDB</li>
     <li> GraphQL</li>
     <li> SQL (MySQL/SQLite)</li>
-    <li>Firebase</li>
+    <li> Firebase</li>
 </ul>
 
 ### Salesforce Dev Tools:
 <ul>
     <li> Git (GitHub)</li>
-    <li>Webpack</li>
+    <li> Webpack</li>
     <li> Heroku</li></li>
     <li> AWS</li>
     <li> VSCode</li>
 </ul>
 
 <ul>
-  <li>🔭 I’m currently working on react and django projects</li>
-  <li>🌱 I’m currently learning flutter</li>
-  <li>👯 I’m looking to collaborate on any thing that suits my skill set</li>
-  <li>💬 Ask me about frontend and backend development and deployment</li>
-  <li>📫 How to reach me: email me @ ridarafisyed@gmail.com'</li>
-  <li>⚡ Fun fact: I love to do illustration</li>
+  <li> 🔭 I’m currently working on react and django projects</li>
+  <li> 🌱 I’m currently learning flutter</li>
+  <li> 👯 I’m looking to collaborate on any thing that suits my skill set</li>
+  <li> 💬 Ask me about frontend and backend development and deployment</li>
+  <li> 📫 How to reach me: email me @ ridarafisyed@gmail.com'</li>
+  <li> ⚡ Fun fact: I love to do illustration</li>
 </ul>
 
 ### Connect With Me:
