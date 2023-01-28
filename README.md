@@ -1,11 +1,11 @@
-### Hi there, I'm Rida R Syed 👋
+## Hi there, I'm Rida R Syed 👋
 
 [![Website](https://img.shields.io/website?label=aurteck.com&style=for-the-badge&url=https%3A%2F%2Ftuomokankaanpaa.com)](https://aurteck.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tumee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/company/aurtecks/)
 
 I'm a passionate, creative, and hardworking full stack web developer 5 years plus’ experience. Open to handling any challenge in my way, I can make your website beautiful and fully functional. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of technologies, platforms and approaches required to build a quality digital solution
 
-## My Skills/Services include, but are not limited to:
+### My Skills/Services include, but are not limited to:
 <ul>
   <li> SaaS Development </li>
    <li> PWA - Progressive Web App Development</li>
@@ -22,7 +22,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
    <li> Hosting, domain, email, and SSL setup</li>
 </ul>
 
-## Developer Summary: Languages:
+### Developer Summary: Languages:
 <ul>
     <li> JavaScript (ES6, React, Redux)</li>
     <li> HTML5</li>
@@ -31,7 +31,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
     <li> PHP </li>
 </ul>
 
-## Frameworks: Web Stacks:
+### Frameworks: Web Stacks:
 <ul>
     <li> MERN (MongoDB, Express, React, Node)</li>
     <li> Flask</li>
@@ -40,12 +40,12 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
     <li> Gatsby</li>
 </ul>
 
-## Mobile Development:
+### Mobile Development:
 <ul>
   <li> React Native</li>
 </ul>
 
-## Database Management:
+### Database Management:
 <ul>
     <li> PostgreSQL</li>
     <li> MongoDB</li>
@@ -54,7 +54,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
     <li>Firebase</li>
 </ul>
 
-## Salesforce Dev Tools:
+### Salesforce Dev Tools:
 <ul>
     <li> Git (GitHub)</li>
     <li>Webpack</li>
@@ -72,13 +72,12 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
   <li>⚡ Fun fact: I love to do illustration</li>
 </ul>
 
-# Connect With Me:
+### Connect With Me:
 
 [<img align="left" alt="aurteck.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AURTeck | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AURTeck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AURTeck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 
 <!-- ### 📕 Latest Blog Posts -->
@@ -107,9 +106,12 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 ➡️ [more videos...][youtube]
 
  -->
+<br/>
+
+<br/>
 
 :zap: GitHub Stats
-
+<br/>
 [![Rida R Syed's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ridarafisyed&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ridarafisyed/github-readme-stats#gh-dark-mode-only)
 [![Rida R Syed's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ridarafisyed&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ridarafisyed/github-readme-stats#gh-light-mode-only)
 
