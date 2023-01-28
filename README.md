@@ -68,6 +68,56 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
   <li>📫 How to reach me: email me @ ridarafisyed@gmail.com'</li>
   <li>⚡ Fun fact: I love to do illustration</li>
 </ul>
+
+# Connect With Me:
+
+[<img align="left" alt="aurteck.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AURTeck | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AURTeck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AURTeck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<!-- 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Want FASTER build time with Next.js? DO THIS! ⚡](https://dev.to/tumee/want-faster-build-time-with-nextjs-do-this-39lc)
+- [Underrated Next.js feature 🤯](https://dev.to/tumee/underrated-nextjs-feature-56ii)
+- [If you use React, DO THIS!](https://dev.to/tumee/if-you-use-react-do-this-gh8)
+- [Working on my Next.js Crash Course 📚](https://dev.to/tumee/working-on-my-nextjs-crash-course-4nch)
+- [Week full of Next.js](https://dev.to/tumee/week-full-of-nextjs-37di)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][blog]
+
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Coding Next.js - Day in the Life of a Software Engineer - First Person View](https://www.youtube.com/watch?v=b3MoM7VSEaM)
+- [Next.js Protected API Routes &lpar;with NextAuth&rpar;](https://www.youtube.com/watch?v=BXyDKfIe-es)
+- [Day in the Life of a Software Engineer - First Person View - Coding in another office 👨‍💻](https://www.youtube.com/watch?v=wv4qJQkIp_w)
+- [Day in the Life of a Software Engineer - First Person View - Working in Finland](https://www.youtube.com/watch?v=HVt8JkAHJiU)
+- [Next.js 13 - How to add Authentication &lpar;app folder&rpar;](https://www.youtube.com/watch?v=DfIDr2jCkHo)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube] -->
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rida R Syed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ridatafisyed&theme=algolia&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://aurteck.com
+[blog]: https://www.linkedin.com/pulse/streamline-your-software-delivery-navigating-phases-devops-rida-syed/?trackingId=M6Rq3lE6RmSfGJMy8A2PQA%3D%3D
+[twitter]: https://twitter.com/AURTecks
+[youtube]: https://www.youtube.com/@theprogramingninja
+[linkedin]: https://www.linkedin.com/company/aurtecks/
+
+
 <!--
 **ridarafisyed/ridarafisyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
