@@ -112,6 +112,9 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 <!-- " ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)" -->
 </details>
 
+[![Rida R Syed's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ridarafisyed&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ridarafisyed/github-readme-stats#gh-dark-mode-only)
+[![Rida R Syed's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ridarafisyed&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ridarafisyed/github-readme-stats#gh-light-mode-only)
+
 [website]: https://aurteck.com
 [blog]: https://www.linkedin.com/pulse/streamline-your-software-delivery-navigating-phases-devops-rida-syed/?trackingId=M6Rq3lE6RmSfGJMy8A2PQA%3D%3D
 [twitter]: https://twitter.com/AURTecks
