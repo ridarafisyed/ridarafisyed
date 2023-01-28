@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Rida R Syed 👋
+
+[![Website](https://img.shields.io/website?label=aurteck.com&style=for-the-badge&url=https%3A%2F%2Ftuomokankaanpaa.com)](https://aurteck.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tumee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/company/aurtecks/)
 
 I'm a passionate, creative, and hardworking full stack web developer 5 years plus’ experience. Open to handling any challenge in my way, I can make your website beautiful and fully functional. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of technologies, platforms and approaches required to build a quality digital solution
 
