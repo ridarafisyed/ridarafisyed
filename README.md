@@ -108,7 +108,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rida R Syed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ridatafisyed&theme=algolia&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rida R Syed's GitHub Stats" src="[![Rida R Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridarafisyed)](https://github.com/ridarafisyed/github-readme-stats)" />
 
 </details>
 
