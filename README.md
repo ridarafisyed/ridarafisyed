@@ -77,32 +77,33 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 [<img align="left" alt="AURTeck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<!-- 
-### 📕 Latest Blog Posts
+
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Want FASTER build time with Next.js? DO THIS! ⚡](https://dev.to/tumee/want-faster-build-time-with-nextjs-do-this-39lc)
+<!-- - [Want FASTER build time with Next.js? DO THIS! ⚡](https://dev.to/tumee/want-faster-build-time-with-nextjs-do-this-39lc)
 - [Underrated Next.js feature 🤯](https://dev.to/tumee/underrated-nextjs-feature-56ii)
 - [If you use React, DO THIS!](https://dev.to/tumee/if-you-use-react-do-this-gh8)
 - [Working on my Next.js Crash Course 📚](https://dev.to/tumee/working-on-my-nextjs-crash-course-4nch)
-- [Week full of Next.js](https://dev.to/tumee/week-full-of-nextjs-37di)
+- [Week full of Next.js](https://dev.to/tumee/week-full-of-nextjs-37di) -->
 <!-- BLOG-POST-LIST:END -->
-
+<!-- 
 ➡️ [more blog posts...][blog]
 
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
-- [Coding Next.js - Day in the Life of a Software Engineer - First Person View](https://www.youtube.com/watch?v=b3MoM7VSEaM)
+<!-- - [Coding Next.js - Day in the Life of a Software Engineer - First Person View](https://www.youtube.com/watch?v=b3MoM7VSEaM)
 - [Next.js Protected API Routes &lpar;with NextAuth&rpar;](https://www.youtube.com/watch?v=BXyDKfIe-es)
 - [Day in the Life of a Software Engineer - First Person View - Coding in another office 👨‍💻](https://www.youtube.com/watch?v=wv4qJQkIp_w)
 - [Day in the Life of a Software Engineer - First Person View - Working in Finland](https://www.youtube.com/watch?v=HVt8JkAHJiU)
-- [Next.js 13 - How to add Authentication &lpar;app folder&rpar;](https://www.youtube.com/watch?v=DfIDr2jCkHo)
+- [Next.js 13 - How to add Authentication &lpar;app folder&rpar;](https://www.youtube.com/watch?v=DfIDr2jCkHo) -->
 <!-- YOUTUBE:END -->
+<!-- 
+➡️ [more videos...][youtube]
 
-➡️ [more videos...][youtube] -->
-
+ -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
