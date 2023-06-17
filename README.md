@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=aurteck.com&style=for-the-badge&url=https%3A%2F%2Ftuomokankaanpaa.com)](https://aurteck.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tumee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/company/aurtecks/)
 
-I'm a passionate, creative, and hardworking full stack web developer 5 years plus’ experience with 8,064 coding hours. Open to handling any challenge in my way, I can make your website beautiful and fully functional. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of technologies, platforms and approaches required to build a quality digital solution
+I'm a passionate, creative, and hardworking full-stack web developer with 5 years plus’ experience with 8,064 coding hours. I can make your website beautiful and fully functional, and I am open to handling any challenge. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of the technologies, platforms and approaches required to build a quality digital solution
 
 ### My Skills/Services include, but are not limited to:
 <ul>
@@ -24,7 +24,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 
 ### Developer Summary: Languages:
 <ul>
-    <li> JavaScript (ES6, React.js, Redux, Next.js, Typescrtipt)</li>
+    <li> JavaScript (ES6, React.js, Redux, Next.js, Typescript)</li>
     <li> HTML5</li>
     <li> CSS3/SCSS/TailwindCSS/Bootstrap</li>
     <li> Python</li>
@@ -34,10 +34,12 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 ### Frameworks: Web Stacks:
 <ul>
     <li> MERN (MongoDB, Express, React, Node)</li>
-    <li> Flask</li>
+  <li> Next Js </li>
+  <li> Gatsby</li>
     <li> Django</li>
+    <li> Flask</li>
     <li> Laravel </li>
-    <li> Gatsby</li>
+    
 </ul>
 
 ### Mobile Development:
@@ -58,15 +60,15 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 <ul>
     <li> Git (GitHub)</li>
     <li> Webpack</li>
-    <li> Heroku</li></li>
+    <li> Heroku</li>
     <li> AWS</li>
     <li> VSCode</li>
 </ul>
 
 <ul>
-  <li> 🔭 I’m currently working on react and django projects</li>
+  <li> 🔭 I’m currently working on react.js, next.js and django projects</li>
   <li> 🌱 I’m currently learning flutter</li>
-  <li> 👯 I’m looking to collaborate on any thing that suits my skill set</li>
+  <li> 👯 I’m looking to collaborate on anything that suits my skill set</li>
   <li> 💬 Ask me about frontend and backend development and deployment</li>
   <li> 📫 How to reach me: email me @ ridarafisyed@gmail.com'</li>
   <li> ⚡ Fun fact: I love to do illustration</li>
