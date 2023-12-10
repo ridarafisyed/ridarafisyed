@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=aurteck.com&style=for-the-badge&url=https%3A%2F%2Ftuomokankaanpaa.com)](https://aurteck.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tumee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/company/aurtecks/)
 
-I'm a passionate, creative, and hardworking full-stack web developer with 5 years plus’ experience with 8,064 coding hours. I can make your website beautiful and fully functional, and I am open to handling any challenge. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of the technologies, platforms and approaches required to build a quality digital solution
+I'm a passionate, creative, and hardworking full-stack web developer with 5 years plus experience with 8,064 coding hours. I can make your website beautiful and fully functional and am open to handling any challenge. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I deeply understand the technologies, platforms and approaches required to build a quality digital solution.
 
 ### My Skills/Services include, but are not limited to:
 <ul>
@@ -66,7 +66,7 @@ I'm a passionate, creative, and hardworking full-stack web developer with 5 year
 </ul>
 
 <ul>
-  <li> 🔭 I’m currently working on react.js, next.js and django projects</li>
+  <li> 🔭 I’m currently working on react.js, next.js and Django projects</li>
   <li> 🌱 I’m currently learning flutter</li>
   <li> 👯 I’m looking to collaborate on anything that suits my skill set</li>
   <li> 💬 Ask me about frontend and backend development and deployment</li>
